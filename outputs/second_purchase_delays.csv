@@ -1,0 +1,2160 @@
+customer_id,country,days_to_second_purchase
+12000,EIRE,29
+12001,United Kingdom,63
+12003,United Kingdom,98
+12005,France,20
+12006,United Kingdom,8
+12009,Germany,17
+12010,United Kingdom,83
+12011,United Kingdom,1
+12013,United Kingdom,1
+12015,United Kingdom,37
+12016,United Kingdom,44
+12017,United Kingdom,62
+12019,Australia,16
+12021,Netherlands,10
+12023,United Kingdom,92
+12024,United Kingdom,12
+12027,United Kingdom,34
+12028,United Kingdom,112
+12029,France,8
+12031,United Kingdom,9
+12032,United Kingdom,23
+12035,United Kingdom,23
+12036,United Kingdom,23
+12037,EIRE,8
+12038,United Kingdom,12
+12042,United Kingdom,39
+12043,United Kingdom,137
+12044,United Kingdom,264
+12045,United Kingdom,14
+12046,United Kingdom,12
+12048,United Kingdom,13
+12049,Australia,156
+12051,United Kingdom,1
+12052,United Kingdom,87
+12056,United Kingdom,123
+12057,United Kingdom,158
+12058,United Kingdom,271
+12059,United Kingdom,53
+12062,United Kingdom,53
+12065,United Kingdom,21
+12066,Germany,136
+12068,France,36
+12069,Netherlands,40
+12071,Spain,17
+12072,EIRE,33
+12075,United Kingdom,75
+12076,United Kingdom,19
+12077,United Kingdom,11
+12078,Germany,6
+12079,United Kingdom,1
+12081,Spain,68
+12082,United Kingdom,41
+12083,United Kingdom,88
+12084,United Kingdom,1
+12085,Belgium,12
+12087,United Kingdom,7
+12088,Sweden,10
+12089,United Kingdom,87
+12092,United Kingdom,37
+12093,France,61
+12094,United Kingdom,42
+12095,Netherlands,65
+12096,United Kingdom,73
+12097,United Kingdom,118
+12098,United Kingdom,15
+12100,United Kingdom,49
+12101,United Kingdom,18
+12103,United Kingdom,4
+12108,United Kingdom,13
+12109,Australia,277
+12110,Australia,90
+12111,United Kingdom,49
+12114,United Kingdom,1
+12115,United Kingdom,1
+12116,United Kingdom,49
+12118,United Kingdom,176
+12121,United Kingdom,22
+12123,United Kingdom,85
+12124,United Kingdom,38
+12125,United Kingdom,87
+12127,United Kingdom,28
+12128,Germany,4
+12130,Belgium,77
+12131,United Kingdom,16
+12132,United Kingdom,4
+12135,Sweden,22
+12142,United Kingdom,21
+12147,United Kingdom,14
+12149,Portugal,110
+12152,United Kingdom,131
+12154,United Kingdom,24
+12156,Australia,64
+12158,United Kingdom,1
+12159,United Kingdom,194
+12160,United Kingdom,1
+12161,United Kingdom,231
+12162,United Kingdom,8
+12163,United Kingdom,19
+12164,EIRE,2
+12166,Germany,27
+12168,United Kingdom,52
+12169,United Kingdom,16
+12170,United Kingdom,76
+12171,United Kingdom,5
+12172,United Kingdom,24
+12173,France,35
+12174,United Kingdom,8
+12176,Germany,3
+12177,United Kingdom,144
+12178,France,7
+12179,Australia,1
+12180,United Kingdom,34
+12181,United Kingdom,16
+12182,United Kingdom,33
+12183,Spain,43
+12184,United Kingdom,9
+12186,United Kingdom,118
+12187,United Kingdom,34
+12188,Germany,33
+12189,Germany,19
+12190,United Kingdom,6
+12191,France,1
+12192,United Kingdom,59
+12195,United Kingdom,22
+12196,United Kingdom,22
+12197,United Kingdom,84
+12198,Sweden,53
+12199,United Kingdom,33
+12200,United Kingdom,141
+12201,United Kingdom,37
+12202,United Kingdom,157
+12203,Spain,34
+12204,United Kingdom,43
+12206,United Kingdom,92
+12207,United Kingdom,31
+12208,United Kingdom,13
+12210,Belgium,149
+12212,United Kingdom,74
+12216,United Kingdom,83
+12217,United Kingdom,47
+12218,EIRE,3
+12219,United Kingdom,139
+12220,United Kingdom,45
+12221,United Kingdom,7
+12222,EIRE,7
+12223,United Kingdom,26
+12225,United Kingdom,11
+12226,United Kingdom,46
+12228,United Kingdom,31
+12229,United Kingdom,97
+12231,United Kingdom,63
+12232,United Kingdom,16
+12233,United Kingdom,110
+12234,United Kingdom,72
+12237,United Kingdom,19
+12238,United Kingdom,46
+12241,Germany,35
+12242,United Kingdom,12
+12243,United Kingdom,175
+12245,United Kingdom,313
+12246,France,145
+12247,United Kingdom,104
+12248,United Kingdom,24
+12249,United Kingdom,1
+12250,EIRE,72
+12251,United Kingdom,73
+12252,United Kingdom,6
+12253,Germany,38
+12254,Germany,94
+12255,United Kingdom,32
+12257,Spain,6
+12258,Germany,84
+12259,United Kingdom,80
+12260,United Kingdom,94
+12261,United Kingdom,26
+12262,United Kingdom,41
+12263,United Kingdom,18
+12264,France,17
+12265,United Kingdom,8
+12266,United Kingdom,108
+12268,United Kingdom,10
+12270,United Kingdom,65
+12271,Germany,124
+12272,United Kingdom,141
+12273,Germany,25
+12275,United Kingdom,1
+12276,Portugal,10
+12277,United Kingdom,1
+12279,United Kingdom,85
+12280,United Kingdom,3
+12287,United Kingdom,1
+12288,Portugal,1
+12290,United Kingdom,3
+12292,United Kingdom,32
+12294,United Kingdom,17
+12295,United Kingdom,15
+12296,Germany,1
+12297,United Kingdom,223
+12298,United Kingdom,21
+12299,United Kingdom,80
+12301,France,2
+12302,United Kingdom,147
+12303,United Kingdom,2
+12305,United Kingdom,27
+12306,Australia,56
+12307,United Kingdom,15
+12308,United Kingdom,312
+12309,France,9
+12310,United Kingdom,42
+12312,France,527
+12313,United Kingdom,47
+12315,United Kingdom,1
+12317,United Kingdom,259
+12320,Portugal,81
+12322,United Kingdom,7
+12326,United Kingdom,102
+12327,United Kingdom,8
+12328,United Kingdom,3
+12329,United Kingdom,124
+12330,United Kingdom,20
+12331,United Kingdom,6
+12332,United Kingdom,14
+12333,Australia,5
+12338,United Kingdom,30
+12339,United Kingdom,10
+12340,United Kingdom,38
+12341,Belgium,185
+12342,United Kingdom,8
+12344,France,96
+12345,United Kingdom,13
+12347,United Kingdom,17
+12349,United Kingdom,2
+12353,United Kingdom,16
+12356,United Kingdom,10
+12357,United Kingdom,17
+12359,United Kingdom,8
+12361,United Kingdom,64
+12363,United Kingdom,98
+12364,United Kingdom,22
+12365,United Kingdom,10
+12366,United Kingdom,57
+12367,United Kingdom,22
+12368,Sweden,2
+12369,United Kingdom,8
+12371,United Kingdom,136
+12374,United Kingdom,57
+12375,United Kingdom,2
+12376,United Kingdom,72
+12377,United Kingdom,9
+12378,United Kingdom,47
+12379,Netherlands,78
+12380,United Kingdom,12
+12381,United Kingdom,42
+12382,United Kingdom,17
+12384,United Kingdom,1
+12385,United Kingdom,140
+12386,Portugal,117
+12388,United Kingdom,56
+12389,United Kingdom,15
+12390,United Kingdom,32
+12392,United Kingdom,12
+12393,United Kingdom,6
+12397,France,18
+12398,United Kingdom,51
+12399,United Kingdom,6
+12402,United Kingdom,65
+12403,United Kingdom,28
+12404,France,1
+12405,Belgium,55
+12406,United Kingdom,6
+12408,United Kingdom,79
+12409,Belgium,5
+12411,United Kingdom,11
+12412,United Kingdom,116
+12413,United Kingdom,128
+12414,EIRE,1
+12415,United Kingdom,135
+12416,France,125
+12417,Belgium,22
+12418,United Kingdom,3
+12421,United Kingdom,24
+12422,United Kingdom,33
+12424,United Kingdom,57
+12426,United Kingdom,4
+12427,United Kingdom,54
+12431,United Kingdom,51
+12432,United Kingdom,4
+12433,United Kingdom,40
+12434,Belgium,9
+12435,United Kingdom,48
+12438,United Kingdom,66
+12439,United Kingdom,111
+12440,United Kingdom,1
+12441,United Kingdom,33
+12442,United Kingdom,41
+12443,United Kingdom,18
+12444,France,15
+12446,United Kingdom,17
+12447,Germany,1
+12448,United Kingdom,1
+12449,United Kingdom,54
+12450,United Kingdom,3
+12453,France,35
+12454,France,5
+12455,Sweden,7
+12457,United Kingdom,17
+12458,Portugal,22
+12460,United Kingdom,5
+12461,United Kingdom,52
+12464,United Kingdom,28
+12467,United Kingdom,61
+12468,United Kingdom,7
+12469,United Kingdom,10
+12471,United Kingdom,18
+12473,United Kingdom,108
+12477,United Kingdom,3
+12478,United Kingdom,33
+12480,France,48
+12481,United Kingdom,53
+12482,Australia,64
+12483,United Kingdom,103
+12485,United Kingdom,35
+12486,United Kingdom,34
+12488,United Kingdom,53
+12490,United Kingdom,2
+12491,United Kingdom,47
+12492,United Kingdom,142
+12494,Germany,65
+12497,United Kingdom,7
+12499,Portugal,159
+12504,United Kingdom,39
+12506,United Kingdom,32
+12509,United Kingdom,19
+12510,United Kingdom,75
+12512,United Kingdom,148
+12513,United Kingdom,1
+12514,United Kingdom,3
+12518,United Kingdom,81
+12519,United Kingdom,65
+12520,United Kingdom,42
+12521,United Kingdom,14
+12522,United Kingdom,54
+12524,United Kingdom,247
+12525,United Kingdom,24
+12527,France,38
+12528,United Kingdom,2
+12529,United Kingdom,57
+12531,United Kingdom,32
+12532,United Kingdom,58
+12534,United Kingdom,17
+12535,United Kingdom,55
+12536,United Kingdom,6
+12537,Portugal,115
+12538,United Kingdom,4
+12543,France,149
+12544,United Kingdom,172
+12545,United Kingdom,61
+12546,United Kingdom,21
+12548,United Kingdom,14
+12549,United Kingdom,64
+12551,United Kingdom,11
+12552,United Kingdom,55
+12553,United Kingdom,11
+12554,United Kingdom,100
+12556,United Kingdom,11
+12557,Germany,14
+12558,United Kingdom,136
+12560,United Kingdom,5
+12561,United Kingdom,126
+12562,United Kingdom,37
+12564,United Kingdom,26
+12565,Netherlands,71
+12566,United Kingdom,6
+12568,United Kingdom,84
+12569,United Kingdom,20
+12571,United Kingdom,17
+12573,United Kingdom,2
+12576,United Kingdom,60
+12577,United Kingdom,111
+12578,United Kingdom,7
+12579,United Kingdom,237
+12580,United Kingdom,74
+12582,France,34
+12583,United Kingdom,54
+12584,United Kingdom,33
+12585,United Kingdom,4
+12586,EIRE,83
+12587,United Kingdom,18
+12590,France,33
+12591,United Kingdom,82
+12592,United Kingdom,6
+12593,United Kingdom,37
+12595,Australia,110
+12597,United Kingdom,34
+12599,United Kingdom,13
+12600,United Kingdom,18
+12603,United Kingdom,46
+12604,United Kingdom,57
+12606,Germany,75
+12609,United Kingdom,297
+12610,Belgium,22
+12611,United Kingdom,236
+12613,United Kingdom,62
+12614,United Kingdom,50
+12615,United Kingdom,33
+12616,Sweden,61
+12617,United Kingdom,69
+12618,United Kingdom,8
+12619,United Kingdom,29
+12620,United Kingdom,199
+12622,United Kingdom,9
+12623,Germany,16
+12625,United Kingdom,168
+12626,United Kingdom,16
+12627,United Kingdom,72
+12628,United Kingdom,8
+12629,Spain,51
+12631,United Kingdom,76
+12632,United Kingdom,352
+12633,United Kingdom,8
+12634,United Kingdom,10
+12635,France,162
+12636,United Kingdom,10
+12637,United Kingdom,249
+12638,EIRE,46
+12639,United Kingdom,16
+12641,EIRE,65
+12642,United Kingdom,19
+12644,United Kingdom,31
+12645,United Kingdom,11
+12646,Germany,34
+12648,France,66
+12649,Portugal,55
+12651,Australia,2
+12653,United Kingdom,51
+12654,United Kingdom,25
+12655,United Kingdom,83
+12656,United Kingdom,4
+12657,Germany,48
+12658,United Kingdom,77
+12660,EIRE,4
+12661,France,17
+12663,United Kingdom,114
+12665,United Kingdom,22
+12667,United Kingdom,225
+12669,United Kingdom,28
+12670,United Kingdom,1
+12672,United Kingdom,7
+12673,United Kingdom,66
+12675,United Kingdom,1
+12678,United Kingdom,6
+12679,United Kingdom,22
+12680,United Kingdom,76
+12681,EIRE,62
+12682,United Kingdom,15
+12685,Australia,16
+12686,United Kingdom,17
+12687,United Kingdom,24
+12688,United Kingdom,14
+12689,United Kingdom,33
+12690,United Kingdom,109
+12693,United Kingdom,1
+12695,EIRE,38
+12697,United Kingdom,25
+12698,United Kingdom,139
+12699,United Kingdom,8
+12700,United Kingdom,13
+12701,United Kingdom,3
+12702,United Kingdom,105
+12703,United Kingdom,197
+12706,EIRE,30
+12707,United Kingdom,1
+12709,United Kingdom,33
+12710,EIRE,28
+12711,United Kingdom,16
+12713,Germany,175
+12715,United Kingdom,15
+12717,Germany,285
+12718,United Kingdom,64
+12719,United Kingdom,9
+12720,United Kingdom,56
+12721,France,55
+12723,Spain,10
+12725,United Kingdom,84
+12728,United Kingdom,1
+12729,United Kingdom,62
+12730,United Kingdom,20
+12732,Spain,34
+12734,United Kingdom,72
+12735,United Kingdom,85
+12736,United Kingdom,14
+12738,United Kingdom,114
+12739,United Kingdom,11
+12740,United Kingdom,23
+12742,United Kingdom,3
+12744,Spain,13
+12745,Germany,15
+12747,United Kingdom,8
+12749,United Kingdom,33
+12750,United Kingdom,8
+12751,United Kingdom,96
+12752,United Kingdom,49
+12753,United Kingdom,6
+12754,Sweden,47
+12755,France,112
+12757,United Kingdom,322
+12758,United Kingdom,74
+12760,United Kingdom,1
+12761,United Kingdom,37
+12763,United Kingdom,4
+12764,Portugal,13
+12765,United Kingdom,1
+12766,United Kingdom,25
+12768,United Kingdom,25
+12770,United Kingdom,61
+12771,Germany,177
+12772,United Kingdom,40
+12773,United Kingdom,2
+12775,United Kingdom,96
+12776,United Kingdom,80
+12777,United Kingdom,21
+12778,EIRE,64
+12779,United Kingdom,21
+12780,United Kingdom,1
+12781,France,29
+12782,Belgium,114
+12783,United Kingdom,47
+12784,Spain,127
+12785,United Kingdom,458
+12786,United Kingdom,30
+12787,United Kingdom,67
+12788,United Kingdom,1
+12792,United Kingdom,91
+12794,United Kingdom,42
+12796,Germany,35
+12797,Germany,37
+12798,United Kingdom,38
+12799,United Kingdom,65
+12800,United Kingdom,1
+12803,United Kingdom,28
+12805,United Kingdom,25
+12806,United Kingdom,12
+12808,United Kingdom,76
+12810,United Kingdom,1
+12811,EIRE,1
+12812,United Kingdom,49
+12813,United Kingdom,3
+12815,United Kingdom,28
+12816,United Kingdom,98
+12817,Belgium,45
+12818,United Kingdom,4
+12820,United Kingdom,55
+12821,Germany,90
+12822,United Kingdom,150
+12823,EIRE,81
+12824,United Kingdom,350
+12825,United Kingdom,63
+12826,EIRE,3
+12828,United Kingdom,119
+12831,United Kingdom,266
+12832,United Kingdom,9
+12833,United Kingdom,190
+12834,Germany,97
+12835,United Kingdom,104
+12837,Netherlands,64
+12838,United Kingdom,23
+12839,United Kingdom,29
+12842,EIRE,1
+12843,United Kingdom,4
+12847,United Kingdom,40
+12848,France,147
+12849,United Kingdom,22
+12850,United Kingdom,36
+12852,United Kingdom,61
+12853,United Kingdom,71
+12855,United Kingdom,12
+12856,United Kingdom,1
+12858,France,19
+12860,United Kingdom,47
+12861,Germany,3
+12863,United Kingdom,1
+12864,United Kingdom,44
+12865,United Kingdom,53
+12866,United Kingdom,38
+12870,United Kingdom,22
+12871,United Kingdom,24
+12872,EIRE,100
+12873,United Kingdom,101
+12879,United Kingdom,5
+12881,United Kingdom,85
+12882,United Kingdom,195
+12883,United Kingdom,144
+12884,United Kingdom,5
+12885,Portugal,11
+12886,United Kingdom,90
+12887,United Kingdom,114
+12888,United Kingdom,25
+12889,Germany,18
+12890,United Kingdom,43
+12891,United Kingdom,20
+12892,United Kingdom,24
+12893,United Kingdom,66
+12897,United Kingdom,22
+12899,United Kingdom,12
+12900,United Kingdom,21
+12901,United Kingdom,4
+12902,United Kingdom,59
+12903,Australia,94
+12904,Germany,109
+12905,United Kingdom,1
+12907,United Kingdom,6
+12909,EIRE,26
+12910,United Kingdom,13
+12911,United Kingdom,6
+12916,United Kingdom,7
+12917,United Kingdom,62
+12918,EIRE,1
+12920,United Kingdom,45
+12923,United Kingdom,10
+12924,United Kingdom,23
+12925,United Kingdom,25
+12926,Netherlands,174
+12927,Germany,135
+12928,United Kingdom,143
+12929,Germany,13
+12930,Australia,7
+12931,United Kingdom,2
+12933,United Kingdom,167
+12935,Germany,12
+12936,United Kingdom,3
+12937,Germany,1
+12939,United Kingdom,12
+12940,United Kingdom,33
+12941,United Kingdom,1
+12942,United Kingdom,28
+12943,United Kingdom,12
+12945,United Kingdom,38
+12946,United Kingdom,21
+12947,United Kingdom,13
+12948,Belgium,150
+12949,United Kingdom,39
+12954,United Kingdom,68
+12955,United Kingdom,69
+12956,United Kingdom,45
+12957,United Kingdom,91
+12959,United Kingdom,11
+12962,United Kingdom,2
+12963,Australia,50
+12964,United Kingdom,77
+12965,United Kingdom,74
+12966,United Kingdom,12
+12969,United Kingdom,14
+12970,Germany,45
+12972,United Kingdom,11
+12973,United Kingdom,31
+12974,France,77
+12975,United Kingdom,46
+12976,Spain,11
+12977,Germany,19
+12978,United Kingdom,36
+12979,United Kingdom,38
+12980,United Kingdom,2
+12982,United Kingdom,242
+12983,United Kingdom,110
+12984,Netherlands,4
+12986,Germany,77
+12987,Sweden,74
+12990,United Kingdom,96
+12991,United Kingdom,113
+12994,Australia,55
+12998,United Kingdom,13
+12999,Sweden,3
+13000,United Kingdom,8
+13002,Germany,26
+13003,United Kingdom,67
+13005,Germany,194
+13008,Germany,66
+13011,Germany,33
+13012,United Kingdom,2
+13013,United Kingdom,42
+13014,United Kingdom,14
+13015,United Kingdom,1
+13017,United Kingdom,35
+13019,EIRE,106
+13022,Spain,47
+13023,United Kingdom,21
+13025,United Kingdom,144
+13026,United Kingdom,6
+13027,United Kingdom,30
+13029,France,55
+13030,United Kingdom,23
+13031,Spain,105
+13032,United Kingdom,38
+13033,United Kingdom,62
+13034,United Kingdom,28
+13035,United Kingdom,50
+13036,United Kingdom,36
+13037,Spain,1
+13038,United Kingdom,30
+13039,France,1
+13042,United Kingdom,6
+13043,United Kingdom,17
+13048,Germany,69
+13050,EIRE,28
+13052,EIRE,45
+13057,United Kingdom,101
+13058,United Kingdom,33
+13059,Australia,165
+13061,United Kingdom,14
+13062,United Kingdom,18
+13063,United Kingdom,67
+13067,Australia,86
+13069,United Kingdom,3
+13070,United Kingdom,7
+13071,United Kingdom,26
+13072,United Kingdom,37
+13073,United Kingdom,12
+13075,United Kingdom,50
+13080,United Kingdom,1
+13083,United Kingdom,139
+13084,United Kingdom,38
+13085,United Kingdom,85
+13088,United Kingdom,73
+13090,United Kingdom,158
+13091,Germany,4
+13093,United Kingdom,28
+13095,United Kingdom,6
+13096,United Kingdom,23
+13097,United Kingdom,32
+13098,United Kingdom,9
+13099,Germany,55
+13100,Sweden,14
+13101,Belgium,1
+13102,Spain,18
+13104,United Kingdom,148
+13105,United Kingdom,13
+13106,United Kingdom,49
+13107,United Kingdom,34
+13108,Sweden,15
+13110,United Kingdom,218
+13112,United Kingdom,16
+13113,United Kingdom,26
+13115,United Kingdom,6
+13116,Germany,81
+13117,United Kingdom,33
+13119,United Kingdom,5
+13120,United Kingdom,3
+13121,United Kingdom,165
+13123,France,7
+13125,United Kingdom,259
+13126,United Kingdom,34
+13127,United Kingdom,192
+13128,France,123
+13129,United Kingdom,102
+13131,United Kingdom,40
+13132,United Kingdom,105
+13133,France,8
+13135,United Kingdom,3
+13136,Netherlands,74
+13137,United Kingdom,16
+13138,United Kingdom,106
+13139,United Kingdom,33
+13140,United Kingdom,27
+13143,United Kingdom,115
+13144,United Kingdom,25
+13146,United Kingdom,20
+13147,United Kingdom,32
+13148,United Kingdom,254
+13152,United Kingdom,1
+13154,United Kingdom,20
+13155,United Kingdom,10
+13156,United Kingdom,40
+13157,United Kingdom,47
+13158,United Kingdom,86
+13159,United Kingdom,111
+13163,Germany,6
+13166,United Kingdom,6
+13168,United Kingdom,153
+13170,United Kingdom,5
+13172,United Kingdom,146
+13174,United Kingdom,34
+13177,United Kingdom,10
+13178,United Kingdom,1
+13179,United Kingdom,15
+13180,United Kingdom,80
+13181,United Kingdom,116
+13182,United Kingdom,67
+13185,Netherlands,9
+13187,Australia,172
+13188,United Kingdom,1
+13189,United Kingdom,164
+13190,United Kingdom,35
+13191,United Kingdom,201
+13192,United Kingdom,166
+13193,United Kingdom,2
+13194,United Kingdom,3
+13195,EIRE,1
+13196,EIRE,44
+13197,United Kingdom,29
+13198,United Kingdom,257
+13200,United Kingdom,16
+13201,United Kingdom,67
+13202,United Kingdom,54
+13203,Sweden,15
+13204,United Kingdom,56
+13205,Netherlands,11
+13207,United Kingdom,2
+13208,United Kingdom,20
+13209,United Kingdom,123
+13210,United Kingdom,142
+13213,United Kingdom,4
+13214,United Kingdom,17
+13215,United Kingdom,8
+13216,United Kingdom,55
+13217,United Kingdom,8
+13219,United Kingdom,22
+13220,Germany,18
+13221,United Kingdom,128
+13222,United Kingdom,43
+13226,United Kingdom,1
+13230,United Kingdom,157
+13231,United Kingdom,131
+13234,United Kingdom,24
+13236,United Kingdom,12
+13238,Portugal,10
+13239,United Kingdom,133
+13242,United Kingdom,57
+13243,United Kingdom,60
+13244,United Kingdom,3
+13251,United Kingdom,28
+13253,Spain,17
+13254,United Kingdom,37
+13255,United Kingdom,18
+13257,United Kingdom,14
+13260,Germany,34
+13261,United Kingdom,330
+13264,United Kingdom,5
+13265,United Kingdom,23
+13266,United Kingdom,50
+13267,Spain,1
+13269,United Kingdom,37
+13270,United Kingdom,59
+13271,United Kingdom,231
+13273,United Kingdom,72
+13274,France,14
+13275,United Kingdom,190
+13276,Belgium,156
+13277,United Kingdom,3
+13278,United Kingdom,33
+13280,United Kingdom,29
+13281,EIRE,26
+13282,France,1
+13283,United Kingdom,10
+13284,United Kingdom,13
+13286,United Kingdom,168
+13290,United Kingdom,248
+13291,Spain,92
+13292,United Kingdom,13
+13293,United Kingdom,18
+13294,United Kingdom,28
+13295,United Kingdom,212
+13296,United Kingdom,26
+13298,Sweden,30
+13299,United Kingdom,73
+13300,United Kingdom,60
+13301,Sweden,23
+13303,United Kingdom,15
+13305,United Kingdom,16
+13306,United Kingdom,147
+13307,Germany,55
+13308,EIRE,241
+13311,United Kingdom,1
+13313,EIRE,28
+13314,United Kingdom,20
+13315,Australia,5
+13317,Netherlands,6
+13318,United Kingdom,25
+13319,United Kingdom,88
+13320,United Kingdom,31
+13322,France,9
+13323,United Kingdom,13
+13324,United Kingdom,85
+13325,France,37
+13327,United Kingdom,63
+13328,United Kingdom,22
+13329,United Kingdom,4
+13330,United Kingdom,1
+13332,United Kingdom,39
+13333,United Kingdom,145
+13335,United Kingdom,42
+13336,United Kingdom,13
+13337,United Kingdom,5
+13338,Australia,73
+13339,United Kingdom,22
+13341,United Kingdom,79
+13342,United Kingdom,1
+13344,United Kingdom,1
+13345,United Kingdom,12
+13346,France,2
+13347,United Kingdom,21
+13348,France,26
+13350,Sweden,20
+13351,United Kingdom,32
+13352,United Kingdom,28
+13354,United Kingdom,52
+13355,France,5
+13356,France,158
+13357,United Kingdom,151
+13358,EIRE,58
+13359,Germany,3
+13361,United Kingdom,40
+13362,Australia,82
+13365,Germany,38
+13366,United Kingdom,3
+13367,United Kingdom,430
+13368,United Kingdom,120
+13369,United Kingdom,202
+13370,United Kingdom,15
+13371,United Kingdom,11
+13372,United Kingdom,8
+13373,United Kingdom,267
+13374,EIRE,46
+13375,United Kingdom,31
+13376,United Kingdom,131
+13377,United Kingdom,18
+13378,United Kingdom,208
+13379,EIRE,154
+13380,United Kingdom,1
+13381,United Kingdom,55
+13383,Netherlands,35
+13384,United Kingdom,162
+13385,United Kingdom,146
+13386,United Kingdom,10
+13387,Germany,27
+13388,Germany,69
+13392,Germany,4
+13393,United Kingdom,1
+13394,United Kingdom,37
+13395,United Kingdom,66
+13396,EIRE,43
+13397,United Kingdom,42
+13399,United Kingdom,46
+13402,United Kingdom,99
+13404,United Kingdom,79
+13405,Spain,3
+13409,Portugal,1
+13410,France,39
+13412,United Kingdom,20
+13413,United Kingdom,4
+13414,Spain,45
+13415,United Kingdom,139
+13416,France,190
+13417,United Kingdom,11
+13419,United Kingdom,132
+13420,United Kingdom,44
+13421,EIRE,1
+13423,United Kingdom,3
+13424,United Kingdom,14
+13425,United Kingdom,6
+13426,United Kingdom,78
+13427,United Kingdom,27
+13428,United Kingdom,4
+13430,United Kingdom,26
+13432,United Kingdom,31
+13434,United Kingdom,194
+13435,United Kingdom,37
+13436,Netherlands,8
+13437,Netherlands,14
+13439,United Kingdom,4
+13441,United Kingdom,70
+13443,United Kingdom,87
+13444,Germany,13
+13446,United Kingdom,1
+13447,United Kingdom,15
+13453,United Kingdom,24
+13455,United Kingdom,21
+13457,United Kingdom,79
+13458,United Kingdom,79
+13461,Netherlands,34
+13463,EIRE,19
+13465,EIRE,1
+13467,EIRE,170
+13468,United Kingdom,6
+13469,United Kingdom,86
+13474,United Kingdom,49
+13476,United Kingdom,225
+13477,United Kingdom,28
+13479,EIRE,172
+13481,United Kingdom,99
+13484,Spain,158
+13488,United Kingdom,14
+13489,United Kingdom,1
+13491,United Kingdom,19
+13493,United Kingdom,27
+13494,United Kingdom,94
+13495,United Kingdom,34
+13496,France,101
+13497,United Kingdom,15
+13498,United Kingdom,2
+13503,United Kingdom,282
+13508,United Kingdom,66
+13511,United Kingdom,4
+13512,United Kingdom,18
+13514,United Kingdom,116
+13516,Germany,45
+13517,United Kingdom,26
+13518,United Kingdom,40
+13521,France,17
+13522,United Kingdom,36
+13523,United Kingdom,31
+13525,United Kingdom,61
+13526,United Kingdom,32
+13527,France,142
+13528,United Kingdom,50
+13529,United Kingdom,2
+13531,United Kingdom,1
+13532,France,91
+13533,United Kingdom,14
+13534,United Kingdom,33
+13535,United Kingdom,1
+13536,United Kingdom,117
+13537,France,152
+13538,United Kingdom,82
+13540,Netherlands,23
+13541,United Kingdom,165
+13542,United Kingdom,3
+13543,United Kingdom,1
+13544,United Kingdom,24
+13545,United Kingdom,137
+13546,United Kingdom,23
+13547,United Kingdom,17
+13548,United Kingdom,76
+13549,United Kingdom,329
+13551,Australia,1
+13552,Spain,63
+13553,Germany,140
+13554,EIRE,109
+13555,United Kingdom,26
+13556,France,38
+13558,United Kingdom,3
+13559,United Kingdom,28
+13560,United Kingdom,36
+13563,United Kingdom,22
+13565,United Kingdom,26
+13567,Germany,95
+13569,United Kingdom,5
+13570,United Kingdom,17
+13572,United Kingdom,18
+13573,United Kingdom,1
+13575,United Kingdom,38
+13576,United Kingdom,59
+13577,France,70
+13578,United Kingdom,67
+13581,United Kingdom,69
+13583,Sweden,6
+13584,EIRE,145
+13585,United Kingdom,46
+13587,United Kingdom,24
+13588,United Kingdom,70
+13590,United Kingdom,98
+13591,United Kingdom,15
+13592,France,10
+13593,United Kingdom,27
+13595,United Kingdom,7
+13596,United Kingdom,28
+13597,United Kingdom,47
+13598,United Kingdom,59
+13601,Germany,4
+13603,France,51
+13604,United Kingdom,6
+13605,France,20
+13606,United Kingdom,129
+13607,Belgium,34
+13608,United Kingdom,4
+13609,United Kingdom,24
+13611,Portugal,10
+13612,United Kingdom,40
+13614,United Kingdom,111
+13615,United Kingdom,275
+13616,United Kingdom,166
+13618,United Kingdom,159
+13619,France,79
+13620,France,83
+13622,United Kingdom,13
+13623,United Kingdom,14
+13626,United Kingdom,43
+13627,United Kingdom,3
+13628,United Kingdom,10
+13630,Netherlands,1
+13632,United Kingdom,61
+13635,United Kingdom,30
+13636,United Kingdom,20
+13637,United Kingdom,17
+13638,Spain,19
+13639,United Kingdom,95
+13640,Netherlands,34
+13641,United Kingdom,1
+13644,Spain,47
+13645,United Kingdom,6
+13646,United Kingdom,3
+13648,United Kingdom,145
+13649,United Kingdom,110
+13650,France,24
+13651,United Kingdom,125
+13652,EIRE,35
+13656,France,56
+13657,France,11
+13658,United Kingdom,81
+13660,Portugal,5
+13662,United Kingdom,143
+13663,EIRE,65
+13666,France,5
+13667,United Kingdom,171
+13668,United Kingdom,11
+13669,Spain,80
+13670,United Kingdom,75
+13671,United Kingdom,32
+13673,United Kingdom,95
+13675,United Kingdom,11
+13678,United Kingdom,51
+13679,United Kingdom,9
+13680,United Kingdom,9
+13681,United Kingdom,55
+13682,United Kingdom,21
+13683,United Kingdom,19
+13684,France,87
+13691,United Kingdom,9
+13692,EIRE,2
+13693,Germany,310
+13696,United Kingdom,61
+13698,United Kingdom,67
+13700,Spain,11
+13702,Australia,165
+13703,United Kingdom,9
+13704,United Kingdom,48
+13706,United Kingdom,41
+13707,United Kingdom,13
+13708,United Kingdom,84
+13709,United Kingdom,6
+13711,United Kingdom,21
+13712,Sweden,18
+13713,United Kingdom,101
+13714,United Kingdom,2
+13718,United Kingdom,16
+13719,United Kingdom,6
+13722,United Kingdom,19
+13723,United Kingdom,118
+13724,United Kingdom,4
+13725,Netherlands,25
+13726,United Kingdom,172
+13727,France,62
+13728,United Kingdom,25
+13730,United Kingdom,6
+13732,United Kingdom,8
+13733,United Kingdom,3
+13736,United Kingdom,33
+13737,United Kingdom,113
+13742,United Kingdom,5
+13743,United Kingdom,72
+13745,United Kingdom,85
+13746,United Kingdom,52
+13747,United Kingdom,294
+13748,United Kingdom,139
+13749,United Kingdom,25
+13750,France,59
+13751,United Kingdom,130
+13752,United Kingdom,13
+13753,United Kingdom,91
+13754,United Kingdom,30
+13755,United Kingdom,3
+13756,United Kingdom,4
+13757,United Kingdom,16
+13758,Sweden,41
+13759,United Kingdom,7
+13760,United Kingdom,9
+13761,United Kingdom,19
+13762,United Kingdom,18
+13763,United Kingdom,66
+13765,United Kingdom,38
+13767,United Kingdom,13
+13768,United Kingdom,6
+13769,United Kingdom,81
+13771,EIRE,39
+13772,Netherlands,47
+13773,France,45
+13774,EIRE,15
+13775,United Kingdom,34
+13777,Belgium,19
+13778,United Kingdom,15
+13780,United Kingdom,27
+13783,United Kingdom,97
+13784,United Kingdom,39
+13786,France,1
+13787,Belgium,25
+13790,United Kingdom,48
+13794,Germany,122
+13796,United Kingdom,27
+13799,United Kingdom,54
+13802,France,90
+13803,United Kingdom,1
+13805,United Kingdom,255
+13806,United Kingdom,6
+13807,United Kingdom,32
+13808,United Kingdom,1
+13810,United Kingdom,47
+13811,United Kingdom,128
+13813,United Kingdom,47
+13814,United Kingdom,23
+13816,United Kingdom,80
+13818,United Kingdom,9
+13819,United Kingdom,32
+13820,United Kingdom,17
+13822,United Kingdom,16
+13824,United Kingdom,161
+13825,United Kingdom,134
+13826,United Kingdom,67
+13827,United Kingdom,80
+13828,United Kingdom,94
+13830,United Kingdom,42
+13831,United Kingdom,42
+13833,United Kingdom,11
+13835,EIRE,14
+13836,United Kingdom,173
+13837,United Kingdom,17
+13838,United Kingdom,54
+13839,United Kingdom,25
+13841,United Kingdom,22
+13843,United Kingdom,1
+13846,United Kingdom,77
+13849,United Kingdom,6
+13850,United Kingdom,20
+13851,United Kingdom,66
+13852,United Kingdom,9
+13853,United Kingdom,107
+13857,United Kingdom,53
+13860,United Kingdom,6
+13861,United Kingdom,157
+13862,United Kingdom,15
+13865,United Kingdom,14
+13866,United Kingdom,23
+13867,United Kingdom,40
+13868,United Kingdom,2
+13870,United Kingdom,12
+13872,France,28
+13874,United Kingdom,14
+13876,Portugal,10
+13878,United Kingdom,19
+13879,France,1
+13880,United Kingdom,15
+13881,United Kingdom,27
+13883,France,73
+13884,United Kingdom,98
+13886,United Kingdom,1
+13887,United Kingdom,91
+13888,Germany,20
+13890,United Kingdom,19
+13891,EIRE,177
+13893,Belgium,5
+13894,United Kingdom,18
+13895,EIRE,25
+13896,United Kingdom,2
+13899,United Kingdom,112
+13900,EIRE,32
+13901,France,32
+13904,EIRE,1
+13907,United Kingdom,329
+13909,United Kingdom,5
+13910,United Kingdom,9
+13912,United Kingdom,37
+13913,United Kingdom,38
+13914,United Kingdom,10
+13915,United Kingdom,1
+13917,United Kingdom,99
+13919,United Kingdom,78
+13920,EIRE,41
+13921,United Kingdom,1
+13922,United Kingdom,145
+13923,United Kingdom,51
+13924,United Kingdom,71
+13925,United Kingdom,34
+13926,United Kingdom,1
+13927,United Kingdom,55
+13928,Germany,45
+13930,United Kingdom,95
+13932,United Kingdom,47
+13933,Sweden,132
+13934,Australia,46
+13935,United Kingdom,51
+13936,Belgium,38
+13938,Belgium,8
+13939,United Kingdom,9
+13941,United Kingdom,6
+13943,United Kingdom,1
+13945,Germany,15
+13948,Portugal,45
+13949,United Kingdom,90
+13951,United Kingdom,43
+13952,EIRE,18
+13955,United Kingdom,37
+13956,United Kingdom,66
+13957,United Kingdom,1
+13958,United Kingdom,47
+13960,United Kingdom,134
+13961,United Kingdom,35
+13963,France,102
+13964,United Kingdom,3
+13967,United Kingdom,5
+13968,United Kingdom,9
+13969,United Kingdom,1
+13970,United Kingdom,21
+13971,United Kingdom,140
+13972,United Kingdom,101
+13973,United Kingdom,45
+13977,Netherlands,11
+13979,Germany,3
+13982,United Kingdom,17
+13983,United Kingdom,4
+13984,United Kingdom,14
+13985,United Kingdom,137
+13987,Germany,42
+13988,Portugal,14
+13989,Germany,23
+13991,United Kingdom,15
+13993,United Kingdom,7
+13994,United Kingdom,1
+13996,United Kingdom,12
+13998,United Kingdom,89
+14001,Germany,28
+14002,United Kingdom,34
+14003,Germany,15
+14004,United Kingdom,61
+14005,United Kingdom,147
+14006,United Kingdom,83
+14007,United Kingdom,41
+14009,Australia,52
+14011,United Kingdom,7
+14012,United Kingdom,266
+14013,United Kingdom,17
+14014,Germany,88
+14015,United Kingdom,10
+14017,Netherlands,72
+14018,United Kingdom,52
+14020,United Kingdom,154
+14022,United Kingdom,1
+14024,Spain,6
+14025,United Kingdom,61
+14026,United Kingdom,1
+14027,France,89
+14029,United Kingdom,92
+14030,United Kingdom,59
+14031,United Kingdom,66
+14032,United Kingdom,98
+14034,Germany,227
+14036,United Kingdom,16
+14037,United Kingdom,65
+14038,United Kingdom,57
+14039,Germany,118
+14040,United Kingdom,13
+14041,United Kingdom,77
+14044,United Kingdom,14
+14045,United Kingdom,22
+14046,EIRE,94
+14048,United Kingdom,317
+14050,EIRE,27
+14051,United Kingdom,64
+14052,United Kingdom,42
+14055,United Kingdom,82
+14056,United Kingdom,60
+14057,United Kingdom,88
+14060,EIRE,193
+14061,United Kingdom,23
+14062,United Kingdom,102
+14063,United Kingdom,113
+14064,United Kingdom,49
+14065,Spain,2
+14066,United Kingdom,94
+14067,United Kingdom,36
+14068,United Kingdom,22
+14072,United Kingdom,130
+14073,United Kingdom,31
+14074,United Kingdom,6
+14075,France,6
+14076,France,59
+14077,United Kingdom,78
+14079,United Kingdom,3
+14080,United Kingdom,5
+14081,EIRE,4
+14082,United Kingdom,195
+14083,United Kingdom,7
+14085,United Kingdom,2
+14088,United Kingdom,50
+14089,United Kingdom,166
+14090,United Kingdom,1
+14091,United Kingdom,4
+14092,Germany,185
+14093,United Kingdom,66
+14095,United Kingdom,22
+14096,Netherlands,15
+14097,Spain,84
+14098,United Kingdom,30
+14100,United Kingdom,3
+14101,United Kingdom,18
+14102,United Kingdom,1
+14103,United Kingdom,66
+14104,United Kingdom,26
+14105,Germany,1
+14106,United Kingdom,79
+14107,United Kingdom,187
+14108,United Kingdom,79
+14109,United Kingdom,10
+14110,United Kingdom,16
+14111,United Kingdom,34
+14112,United Kingdom,60
+14113,EIRE,206
+14114,United Kingdom,132
+14116,United Kingdom,100
+14117,United Kingdom,18
+14121,Germany,20
+14122,Spain,10
+14123,United Kingdom,44
+14125,United Kingdom,91
+14126,EIRE,20
+14129,United Kingdom,83
+14130,United Kingdom,8
+14131,United Kingdom,66
+14132,United Kingdom,82
+14133,United Kingdom,88
+14134,Spain,5
+14135,United Kingdom,24
+14136,United Kingdom,98
+14139,Sweden,18
+14140,United Kingdom,71
+14142,United Kingdom,12
+14144,United Kingdom,113
+14146,United Kingdom,78
+14147,United Kingdom,4
+14148,United Kingdom,8
+14149,United Kingdom,330
+14150,Spain,3
+14151,United Kingdom,1
+14153,United Kingdom,2
+14154,Germany,110
+14155,United Kingdom,46
+14156,Germany,12
+14158,United Kingdom,19
+14159,Netherlands,35
+14160,United Kingdom,2
+14162,United Kingdom,48
+14163,United Kingdom,95
+14164,United Kingdom,40
+14165,United Kingdom,38
+14166,United Kingdom,16
+14167,Belgium,65
+14170,United Kingdom,24
+14171,United Kingdom,1
+14173,United Kingdom,23
+14174,United Kingdom,93
+14175,United Kingdom,26
+14177,United Kingdom,13
+14178,United Kingdom,2
+14179,United Kingdom,23
+14180,United Kingdom,94
+14181,EIRE,6
+14182,France,14
+14184,United Kingdom,43
+14185,United Kingdom,47
+14186,United Kingdom,12
+14187,United Kingdom,7
+14189,United Kingdom,33
+14190,United Kingdom,29
+14192,United Kingdom,50
+14193,Spain,60
+14197,United Kingdom,151
+14198,United Kingdom,20
+14199,Germany,26
+14201,United Kingdom,67
+14202,Belgium,2
+14204,EIRE,110
+14206,United Kingdom,8
+14207,France,100
+14208,United Kingdom,24
+14210,United Kingdom,22
+14211,United Kingdom,1
+14214,United Kingdom,4
+14215,United Kingdom,41
+14217,Portugal,23
+14218,United Kingdom,124
+14221,United Kingdom,11
+14223,United Kingdom,2
+14224,Netherlands,107
+14225,United Kingdom,50
+14228,United Kingdom,31
+14229,United Kingdom,34
+14234,United Kingdom,23
+14236,United Kingdom,272
+14238,United Kingdom,144
+14239,United Kingdom,7
+14240,United Kingdom,37
+14241,United Kingdom,79
+14242,United Kingdom,1
+14243,Netherlands,36
+14245,United Kingdom,22
+14246,United Kingdom,65
+14249,Germany,13
+14251,France,1
+14252,Australia,60
+14253,United Kingdom,21
+14254,Germany,59
+14256,United Kingdom,9
+14257,United Kingdom,22
+14258,United Kingdom,1
+14261,United Kingdom,58
+14262,Spain,86
+14263,Sweden,13
+14264,Spain,107
+14266,EIRE,124
+14267,United Kingdom,38
+14268,United Kingdom,47
+14269,EIRE,3
+14270,United Kingdom,32
+14271,United Kingdom,135
+14273,United Kingdom,43
+14274,United Kingdom,3
+14276,United Kingdom,12
+14277,Sweden,109
+14279,United Kingdom,13
+14280,United Kingdom,23
+14281,United Kingdom,104
+14283,United Kingdom,21
+14285,United Kingdom,3
+14286,United Kingdom,4
+14287,United Kingdom,78
+14290,Germany,6
+14291,United Kingdom,93
+14293,United Kingdom,86
+14294,United Kingdom,29
+14296,United Kingdom,64
+14297,United Kingdom,85
+14298,United Kingdom,70
+14299,United Kingdom,113
+14301,United Kingdom,2
+14302,United Kingdom,11
+14305,United Kingdom,233
+14308,EIRE,13
+14312,United Kingdom,25
+14313,United Kingdom,64
+14314,United Kingdom,153
+14315,Netherlands,19
+14316,Spain,130
+14318,United Kingdom,1
+14319,United Kingdom,1
+14320,United Kingdom,13
+14322,Belgium,64
+14323,France,28
+14326,EIRE,38
+14328,United Kingdom,71
+14329,Germany,27
+14330,United Kingdom,15
+14331,United Kingdom,35
+14332,United Kingdom,6
+14339,Belgium,12
+14340,Germany,4
+14341,France,17
+14343,United Kingdom,215
+14345,United Kingdom,25
+14348,Germany,45
+14350,United Kingdom,64
+14352,United Kingdom,59
+14353,United Kingdom,49
+14354,United Kingdom,15
+14355,United Kingdom,21
+14356,Spain,15
+14357,United Kingdom,61
+14358,United Kingdom,87
+14359,United Kingdom,4
+14360,United Kingdom,55
+14361,United Kingdom,35
+14363,United Kingdom,26
+14364,United Kingdom,4
+14365,United Kingdom,95
+14366,United Kingdom,16
+14368,United Kingdom,10
+14370,United Kingdom,5
+14372,United Kingdom,66
+14373,United Kingdom,100
+14374,United Kingdom,9
+14376,Netherlands,164
+14377,United Kingdom,45
+14378,Portugal,42
+14381,Portugal,61
+14382,United Kingdom,167
+14383,United Kingdom,4
+14384,United Kingdom,71
+14385,United Kingdom,53
+14386,United Kingdom,8
+14388,Belgium,82
+14389,United Kingdom,2
+14390,United Kingdom,91
+14391,United Kingdom,127
+14392,Sweden,28
+14393,United Kingdom,92
+14394,Australia,8
+14396,Germany,17
+14397,United Kingdom,53
+14398,United Kingdom,35
+14400,United Kingdom,45
+14401,United Kingdom,16
+14402,United Kingdom,27
+14403,France,30
+14404,EIRE,57
+14405,United Kingdom,30
+14407,Sweden,19
+14408,United Kingdom,37
+14409,United Kingdom,2
+14411,Portugal,43
+14412,United Kingdom,137
+14413,United Kingdom,1
+14414,United Kingdom,35
+14415,United Kingdom,116
+14416,United Kingdom,108
+14420,United Kingdom,135
+14421,Spain,1
+14422,United Kingdom,46
+14423,United Kingdom,1
+14424,United Kingdom,102
+14426,Belgium,8
+14427,United Kingdom,15
+14429,United Kingdom,9
+14430,United Kingdom,16
+14431,United Kingdom,70
+14432,United Kingdom,99
+14436,United Kingdom,2
+14438,United Kingdom,1
+14445,United Kingdom,23
+14446,EIRE,8
+14447,United Kingdom,254
+14448,United Kingdom,63
+14449,United Kingdom,41
+14451,Germany,7
+14453,France,11
+14456,Germany,35
+14457,United Kingdom,1
+14458,United Kingdom,49
+14460,United Kingdom,43
+14461,France,17
+14462,EIRE,99
+14463,United Kingdom,46
+14464,United Kingdom,41
+14466,United Kingdom,2
+14467,United Kingdom,19
+14468,Germany,13
+14469,United Kingdom,117
+14470,United Kingdom,70
+14471,United Kingdom,86
+14472,United Kingdom,12
+14475,United Kingdom,50
+14476,United Kingdom,42
+14477,Germany,71
+14478,United Kingdom,77
+14480,United Kingdom,40
+14482,France,23
+14487,Spain,69
+14488,Spain,62
+14489,Germany,67
+14490,United Kingdom,41
+14492,France,194
+14493,United Kingdom,147
+14494,United Kingdom,139
+14495,United Kingdom,54
+14499,United Kingdom,12
+14501,United Kingdom,5
+14502,United Kingdom,58
+14503,United Kingdom,9
+14505,United Kingdom,85
+14506,United Kingdom,89
+14508,United Kingdom,5
+14511,United Kingdom,292
+14513,United Kingdom,310
+14514,United Kingdom,74
+14515,United Kingdom,1
+14516,Germany,92
+14517,United Kingdom,33
+14518,Sweden,97
+14520,United Kingdom,274
+14521,United Kingdom,1
+14523,United Kingdom,64
+14524,United Kingdom,69
+14525,Australia,36
+14526,United Kingdom,11
+14527,United Kingdom,33
+14528,United Kingdom,45
+14529,EIRE,19
+14530,United Kingdom,8
+14532,United Kingdom,213
+14533,United Kingdom,5
+14534,United Kingdom,8
+14535,United Kingdom,53
+14536,United Kingdom,28
+14537,United Kingdom,52
+14538,United Kingdom,40
+14539,United Kingdom,21
+14541,United Kingdom,47
+14542,United Kingdom,35
+14544,United Kingdom,33
+14545,United Kingdom,1
+14547,United Kingdom,36
+14548,France,11
+14549,United Kingdom,83
+14550,United Kingdom,128
+14551,Germany,3
+14554,EIRE,130
+14556,United Kingdom,8
+14557,United Kingdom,136
+14558,EIRE,41
+14559,United Kingdom,62
+14560,United Kingdom,74
+14561,Belgium,19
+14563,United Kingdom,25
+14564,United Kingdom,19
+14566,United Kingdom,42
+14567,United Kingdom,13
+14568,United Kingdom,25
+14569,United Kingdom,82
+14570,Germany,14
+14572,United Kingdom,27
+14573,United Kingdom,108
+14574,United Kingdom,12
+14576,United Kingdom,42
+14577,United Kingdom,141
+14578,Germany,2
+14579,Spain,7
+14580,United Kingdom,21
+14581,United Kingdom,1
+14582,United Kingdom,4
+14584,United Kingdom,43
+14586,United Kingdom,33
+14587,United Kingdom,130
+14588,EIRE,33
+14590,United Kingdom,31
+14591,United Kingdom,39
+14593,United Kingdom,1
+14594,United Kingdom,14
+14595,United Kingdom,41
+14597,United Kingdom,15
+14598,United Kingdom,2
+14601,United Kingdom,6
+14602,United Kingdom,120
+14603,United Kingdom,6
+14604,United Kingdom,92
+14606,Spain,1
+14607,United Kingdom,18
+14609,United Kingdom,70
+14610,United Kingdom,32
+14611,United Kingdom,53
+14612,United Kingdom,26
+14613,United Kingdom,172
+14615,United Kingdom,2
+14616,United Kingdom,7
+14621,United Kingdom,13
+14622,Spain,22
+14623,United Kingdom,46
+14624,United Kingdom,124
+14625,United Kingdom,270
+14626,United Kingdom,8
+14627,United Kingdom,83
+14628,Australia,23
+14629,United Kingdom,1
+14630,United Kingdom,19
+14631,Germany,4
+14632,United Kingdom,53
+14635,United Kingdom,8
+14638,United Kingdom,2
+14640,United Kingdom,38
+14641,France,24
+14642,United Kingdom,20
+14645,Belgium,77
+14646,Germany,1
+14647,United Kingdom,43
+14648,United Kingdom,56
+14652,France,103
+14653,Belgium,80
+14656,United Kingdom,37
+14657,United Kingdom,56
+14658,United Kingdom,36
+14659,United Kingdom,1
+14660,United Kingdom,18
+14662,United Kingdom,35
+14663,France,9
+14664,United Kingdom,61
+14665,United Kingdom,121
+14666,Germany,48
+14668,United Kingdom,11
+14669,United Kingdom,33
+14670,United Kingdom,19
+14671,France,10
+14673,Netherlands,8
+14677,United Kingdom,42
+14681,United Kingdom,4
+14682,United Kingdom,40
+14683,United Kingdom,64
+14684,Netherlands,32
+14687,United Kingdom,3
+14688,United Kingdom,2
+14689,United Kingdom,87
+14695,Netherlands,14
+14696,United Kingdom,65
+14700,United Kingdom,104
+14702,United Kingdom,13
+14703,United Kingdom,63
+14707,Belgium,52
+14709,United Kingdom,1
+14710,United Kingdom,118
+14711,Belgium,13
+14715,United Kingdom,36
+14718,United Kingdom,47
+14721,United Kingdom,54
+14723,United Kingdom,139
+14724,United Kingdom,19
+14725,United Kingdom,31
+14726,United Kingdom,22
+14727,United Kingdom,40
+14728,United Kingdom,63
+14731,United Kingdom,56
+14732,Portugal,21
+14733,United Kingdom,10
+14734,United Kingdom,41
+14735,Germany,14
+14736,Spain,27
+14738,United Kingdom,143
+14740,United Kingdom,37
+14741,United Kingdom,30
+14743,United Kingdom,16
+14745,Netherlands,2
+14746,Australia,15
+14747,United Kingdom,45
+14748,United Kingdom,113
+14749,United Kingdom,53
+14751,EIRE,15
+14752,Sweden,117
+14753,United Kingdom,50
+14754,United Kingdom,12
+14756,United Kingdom,5
+14757,United Kingdom,51
+14758,United Kingdom,21
+14760,United Kingdom,3
+14762,United Kingdom,1
+14763,United Kingdom,73
+14764,United Kingdom,2
+14765,Sweden,16
+14766,France,122
+14767,United Kingdom,41
+14769,United Kingdom,24
+14770,United Kingdom,69
+14771,United Kingdom,30
+14774,United Kingdom,4
+14775,United Kingdom,167
+14776,United Kingdom,9
+14779,United Kingdom,36
+14780,United Kingdom,38
+14781,EIRE,16
+14783,United Kingdom,15
+14784,France,74
+14785,United Kingdom,31
+14787,United Kingdom,29
+14788,United Kingdom,1
+14789,United Kingdom,46
+14790,United Kingdom,120
+14792,United Kingdom,11
+14793,Germany,71
+14794,United Kingdom,5
+14795,France,35
+14796,United Kingdom,62
+14797,United Kingdom,53
+14798,United Kingdom,139
+14799,United Kingdom,31
+14800,United Kingdom,19
+14802,United Kingdom,20
+14803,United Kingdom,1
+14806,United Kingdom,30
+14807,United Kingdom,12
+14808,United Kingdom,5
+14809,United Kingdom,69
+14810,Germany,14
+14811,Germany,58
+14812,Germany,33
+14815,Germany,1
+14816,Portugal,27
+14818,United Kingdom,45
+14819,United Kingdom,201
+14820,United Kingdom,62
+14821,United Kingdom,60
+14822,Portugal,7
+14826,Sweden,33
+14828,United Kingdom,8
+14829,United Kingdom,151
+14831,United Kingdom,221
+14832,United Kingdom,1
+14833,United Kingdom,77
+14834,United Kingdom,3
+14835,United Kingdom,63
+14836,Australia,61
+14837,United Kingdom,147
+14838,France,33
+14840,United Kingdom,17
+14841,Germany,27
+14842,United Kingdom,198
+14843,Australia,9
+14845,United Kingdom,53
+14846,France,104
+14848,United Kingdom,7
+14849,United Kingdom,23
+14850,Germany,2
+14853,United Kingdom,9
+14854,United Kingdom,42
+14855,United Kingdom,13
+14856,United Kingdom,182
+14857,United Kingdom,9
+14859,Spain,115
+14860,United Kingdom,7
+14861,United Kingdom,43
+14862,United Kingdom,7
+14863,United Kingdom,13
+14864,United Kingdom,70
+14865,United Kingdom,39
+14866,United Kingdom,1
+14867,United Kingdom,104
+14868,United Kingdom,13
+14869,United Kingdom,51
+14870,United Kingdom,64
+14871,United Kingdom,30
+14873,United Kingdom,38
+14874,United Kingdom,139
+14875,United Kingdom,18
+14877,United Kingdom,267
+14881,United Kingdom,7
+14883,United Kingdom,121
+14885,United Kingdom,7
+14886,EIRE,56
+14887,Germany,31
+14888,United Kingdom,49
+14889,United Kingdom,28
+14893,United Kingdom,28
+14894,United Kingdom,48
+14895,United Kingdom,1
+14896,United Kingdom,53
+14897,France,18
+14898,United Kingdom,20
+14899,Spain,108
+14901,United Kingdom,43
+14902,United Kingdom,1
+14903,United Kingdom,65
+14904,United Kingdom,14
+14905,United Kingdom,1
+14906,United Kingdom,313
+14908,United Kingdom,84
+14909,United Kingdom,1
+14910,Germany,41
+14911,United Kingdom,137
+14913,United Kingdom,80
+14915,United Kingdom,15
+14918,Spain,83
+14919,United Kingdom,41
+14921,United Kingdom,10
+14922,United Kingdom,210
+14923,United Kingdom,92
+14925,United Kingdom,20
+14926,United Kingdom,45
+14927,Germany,38
+14929,Sweden,116
+14931,United Kingdom,84
+14932,Germany,3
+14933,United Kingdom,58
+14937,United Kingdom,40
+14938,United Kingdom,13
+14939,United Kingdom,111
+14940,United Kingdom,30
+14942,United Kingdom,55
+14943,United Kingdom,1
+14944,United Kingdom,119
+14945,United Kingdom,24
+14946,United Kingdom,6
+14947,Germany,38
+14948,United Kingdom,3
+14949,United Kingdom,11
+14952,United Kingdom,26
+14953,France,4
+14954,Spain,9
+14955,United Kingdom,138
+14956,United Kingdom,224
+14957,Australia,17
+14958,United Kingdom,40
+14959,United Kingdom,11
+14960,France,82
+14961,United Kingdom,26
+14962,United Kingdom,71
+14963,United Kingdom,94
+14964,United Kingdom,92
+14966,United Kingdom,178
+14967,United Kingdom,132
+14969,EIRE,191
+14971,United Kingdom,12
+14975,United Kingdom,64
+14977,Belgium,9
+14978,United Kingdom,1
+14980,United Kingdom,37
+14981,United Kingdom,81
+14982,United Kingdom,33
+14984,United Kingdom,93
+14985,United Kingdom,243
+14986,United Kingdom,26
+14987,United Kingdom,75
+14988,United Kingdom,79
+14991,United Kingdom,181
+14992,United Kingdom,10
+14993,United Kingdom,183
+14995,United Kingdom,9
+14996,United Kingdom,23
+14997,United Kingdom,4
+14999,France,177
+15000,United Kingdom,5
+15001,United Kingdom,121
+15002,United Kingdom,268
+15003,United Kingdom,228
+15004,United Kingdom,33
+15005,Germany,63
+15006,United Kingdom,9
+15007,United Kingdom,86
+15008,United Kingdom,19
+15010,United Kingdom,209
+15011,United Kingdom,35
+15012,United Kingdom,14
+15013,Belgium,75
+15016,United Kingdom,2
+15019,United Kingdom,2
+15021,United Kingdom,234
+15022,United Kingdom,24
+15024,United Kingdom,20
+15027,Australia,5
+15029,United Kingdom,51
+15030,United Kingdom,16
+15031,United Kingdom,1
+15032,Germany,6
+15034,Germany,16
+15037,United Kingdom,1
+15038,United Kingdom,83
+15040,Spain,5
+15041,United Kingdom,125
+15043,France,92
+15044,Germany,44
+15045,United Kingdom,50
+15046,United Kingdom,2
+15047,United Kingdom,11
+15049,United Kingdom,100
+15051,France,130
+15052,Germany,19
+15053,United Kingdom,5
+15055,United Kingdom,45
+15056,United Kingdom,153
+15058,United Kingdom,20
+15059,United Kingdom,110
+15061,United Kingdom,2
+15063,United Kingdom,207
+15064,United Kingdom,8
+15065,United Kingdom,38
+15066,United Kingdom,119
+15067,United Kingdom,1
+15068,United Kingdom,16
+15069,Germany,25
+15070,United Kingdom,28
+15071,United Kingdom,16
+15072,United Kingdom,69
+15073,United Kingdom,16
+15074,France,21
+15075,United Kingdom,57
+15076,France,2
+15077,United Kingdom,21
+15079,United Kingdom,42
+15080,United Kingdom,5
+15081,Germany,44
+15082,United Kingdom,76
+15083,United Kingdom,5
+15084,United Kingdom,2
+15085,United Kingdom,1
+15088,Portugal,155
+15089,United Kingdom,41
+15092,EIRE,12
+15093,France,125
+15094,United Kingdom,18
+15095,United Kingdom,1
+15097,United Kingdom,28
+15098,United Kingdom,2
+15102,EIRE,17
+15103,United Kingdom,34
+15104,EIRE,31
+15106,United Kingdom,33
+15109,United Kingdom,1
+15110,United Kingdom,7
+15111,United Kingdom,17
+15112,United Kingdom,35
+15113,United Kingdom,92
+15114,United Kingdom,21
+15115,United Kingdom,63
+15116,United Kingdom,1
+15119,United Kingdom,1
+15120,Germany,4
+15121,Germany,62
+15122,France,41
+15125,United Kingdom,17
+15126,United Kingdom,111
+15128,United Kingdom,111
+15130,United Kingdom,46
+15132,United Kingdom,2
+15134,United Kingdom,8
+15136,United Kingdom,14
+15137,Germany,21
+15138,United Kingdom,32
+15139,United Kingdom,32
+15140,United Kingdom,21
+15141,United Kingdom,76
+15142,United Kingdom,9
+15143,United Kingdom,94
+15144,Netherlands,8
+15145,United Kingdom,42
+15146,United Kingdom,51
+15147,Australia,31
+15148,Germany,15
+15149,France,26
+15150,United Kingdom,35
+15151,United Kingdom,11
+15152,United Kingdom,17
+15154,United Kingdom,9
+15155,Germany,13
+15156,United Kingdom,23
+15157,United Kingdom,167
+15158,United Kingdom,73
+15160,EIRE,7
+15161,France,114
+15162,United Kingdom,100
+15163,United Kingdom,321
+15164,United Kingdom,161
+15165,United Kingdom,1
+15169,United Kingdom,55
+15171,Netherlands,48
+15173,United Kingdom,30
+15176,United Kingdom,228
+15177,United Kingdom,10
+15179,Australia,65
+15180,United Kingdom,270
+15182,United Kingdom,1
+15183,United Kingdom,179
+15184,United Kingdom,52
+15185,United Kingdom,209
+15187,United Kingdom,144
+15188,United Kingdom,61
+15193,United Kingdom,42
+15194,Portugal,92
+15195,United Kingdom,4
+15196,United Kingdom,36
+15199,United Kingdom,74
